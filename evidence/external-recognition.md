@@ -2,6 +2,38 @@
 
 This appendix records selected public references to Open Future Forum, its events, its research, and its founder. It is an evidence index, not a claim that every source is independent or that an individual's comment represents their employer. Short excerpts are included only where they help a reader understand the nature of the source; the original publication remains authoritative.
 
+## Featured quotations
+
+> “Yes, high quality events, high quality people!”
+>
+> — **Josiah Clymer** · **Attendee** · [LinkedIn source](https://www.linkedin.com/posts/quantumbits_if-you-are-around-palo-alto-come-to-this-activity-7201247656046714880-g3jE)
+
+> “The community's passion, energy, and support are palpable and foster an environment of collaboration and innovation.”
+>
+> — **Arjun Subedi** · **Attendee** · [LinkedIn source](https://www.linkedin.com/pulse/day-connection-inspiration-open-future-forum-events-palo-arjun-subedi)
+
+> “The startup pitches were concise & intriguing. The networking superb.”
+>
+> — **Aaron C. Cook** · **Attendee** · [LinkedIn source](https://www.linkedin.com/posts/aaron-cook-11384672_thank-you-murray-newlands-open-future-forum-activity-7189757218794139648-tN1P)
+
+> “A big thank you to Murray Newlands for building a high-quality community of CFOs and enterprise operators...”
+>
+> — **Christina Bui** · **Partner / co-host** · [LinkedIn source](https://www.linkedin.com/posts/christina-bui-0922184_cfo-ai-financeleadership-activity-7437877146456567809-5-jV)
+
+> “These rooms are becoming something more than networking — a place where the best AI conversations are happening right now.”
+>
+> — **John Boitnott** · **External recognition** · [LinkedIn source](https://www.linkedin.com/posts/johnboitnott_why-the-best-ai-conversations-arent-happening-activity-7473381557710544896-6VRN)
+
+> “A top executive leadership community”
+>
+> — **Yahoo Finance / Fortune** · **Published coverage** · [Source article](https://finance.yahoo.com/news/ceos-are-surprise-victims-of-the-loneliness-epidemic-your-peers-are-gone-and-youre-the-only-one-left-073425355.html)
+
+> “One of the best evenings we've had in a while... one of those rooms you don't want to leave.”
+>
+> — **Prasen Shelar** · **Partner / co-host** · [LinkedIn source](https://www.linkedin.com/posts/prasen-s_ciso-cybersecurity-aisecurity-activity-7481457236964179971-zSJ0)
+
+Evidence labels distinguish **attendee**, **speaker**, **partner / co-host**, **published coverage / external recognition**, and **pre-event or community reaction**. Pre-event reactions are not treated as attendee testimony.
+
 ## Participant and speaker perspectives
 
 - **Arjun Subedi — founder and participant.** In a public recommendation to founders, Subedi wrote, “you need to attend events organized by Open Future Forum and Murray Newlands.” He also published a longer [account of two Palo Alto events](https://www.linkedin.com/pulse/day-connection-inspiration-open-future-forum-events-palo-arjun-subedi), describing founder and investor conversations and a collaborative atmosphere. This is a first-person participant account.
@@ -9,6 +41,39 @@ This appendix records selected public references to Open Future Forum, its event
 - **Preetha Ram — invited speaker.** Ram's [public account of AI Keynotes at Microsoft](https://www.linkedin.com/posts/preetharam_there-is-much-to-love-about-the-silicon-valley-activity-7269404185048031233-NwPl) thanks Murray Newlands for the invitation and describes connections among startups, founders, corporations, and investors. Her role is documented by [Pier 70 Ventures](https://www.pier70ventures.com/team_1/preetha-ram-ph-d). This is a first-person speaker account.
 - **Aaron C. Cook — event participant.** After an Open Future Forum AI Symposium, Cook wrote, “The startup pitches were concise & intriguing. The networking superb.” See the [original LinkedIn post](https://www.linkedin.com/posts/aaron-cook-11384672_thank-you-murray-newlands-open-future-forum-activity-7189757218794139648-tN1P). This is a first-person participant account.
 - **Preethi Srinivasan — invited speaker.** Srinivasan published a [first-person account of speaking at Open Future Forum](https://www.linkedin.com/posts/preethi-srinivasan-7497118_enjoyed-speaking-at-open-future-forum-about-activity-7124109800908455936-AzAA). The source is indexed without extending its claims.
+
+## Additional substantive LinkedIn accounts
+
+Employer names provide identification context only and do not imply organizational endorsement.
+
+### CFO community
+
+- **Christina Bui — partner / co-host.** Thanks Murray Newlands for building a high-quality community of CFOs and enterprise operators. [Source post](https://www.linkedin.com/posts/christina-bui-0922184_cfo-ai-financeleadership-activity-7437877146456567809-5-jV)
+- **Louis Lehot — partner / co-host.** Credits Murray Newlands and Christina Bui with building “a real CFO community—operators, not tourists.” [Source post](https://www.linkedin.com/posts/louislehot_menlopark-foleyignite-activity-7437532386164314112-Y2cm)
+- **Nirvikar Jain — attendee.** Describes the session and the operators in the room positively. [Source thread](https://www.linkedin.com/posts/louislehot_menlopark-foleyignite-activity-7437532386164314112-Y2cm)
+- **Daniela C. — attendee.** Praises the event, panel curation, and cross-industry relevance of the discussion. [Source thread](https://www.linkedin.com/posts/louislehot_menlopark-foleyignite-activity-7437532386164314112-Y2cm)
+
+### Microsoft and AI Keynotes community
+
+- **Tonya J. Long — attendee.** Describes an excellent speaker set with predictions, panels, and a fireside chat hosted by Murray Newlands and Ashley Tarver. [Source post](https://www.linkedin.com/posts/tonyajlong_ai-leading-aikeynotesatmicrosoft-activity-7270297328589111297-c6z8)
+- **Antonio White — attendee.** Calls the event a valuable opportunity to explore current AI trends and insights. [Source post](https://www.linkedin.com/posts/antoniocwhite_aikeynotesevent-ai-agentic-activity-7286979904561197056-wrzH)
+- **ACG Silicon Valley — partner organization.** States that it was grateful to support the event. [Source post](https://www.linkedin.com/posts/acgsiliconvalley_acgsv-siliconvalley-aikeynotesatmicrosoft-activity-7261815064238669825-r1yg)
+
+### Other participant and partner accounts
+
+- **John Boitnott — external recognition.** Says the rooms are becoming more than networking and a place for leading AI conversations. [Source post](https://www.linkedin.com/posts/johnboitnott_why-the-best-ai-conversations-arent-happening-activity-7473381557710544896-6VRN)
+- **Nate MacLeitch — attendee.** Describes an opportunity to explore trends, innovation, and strategies shaping AI's future. [Source post](https://www.linkedin.com/posts/nate-macleitch_i-enjoyed-attending-the-ai-unleashed-cto-activity-7140846273766612992-4-eF)
+- **Prasen Shelar — partner / co-host.** Describes the gathering as one of the best evenings in some time and a room people did not want to leave. [Source post](https://www.linkedin.com/posts/prasen-s_ciso-cybersecurity-aisecurity-activity-7481457236964179971-zSJ0)
+
+## Additional reactions
+
+These shorter or non-first-person reactions are useful community signals but are separated from direct attendee testimony.
+
+- **Janice (Jan) Berthold, CPCU — pre-event reaction.** Welcomes the conference and its focus on execution-grade AI and the changing CFO role. [Source thread](https://www.linkedin.com/posts/christina-bui-0922184_cfo-ai-financeleadership-activity-7437877146456567809-5-jV)
+- **Ashley Tarver — pre-event speaker reaction.** Thanks the organizer for the invitation and anticipates an engaging discussion. [Direct source post](https://www.linkedin.com/posts/brandonnader_thinkingai-agentic-growth-summit-2026-luma-activity-7505314920062828544-PedZ)
+- **Rolan Reichel — pre-event speaker reaction.** Thanks Murray Newlands for hosting and expresses interest in the forthcoming discussion. [Source post](https://www.linkedin.com/posts/rolanreichel_thank-you-murray-newlands-for-hosting-and-activity-7308480366137225218-WuRa)
+
+The [shared Preetha Ram AI Keynotes thread](https://www.linkedin.com/posts/preetharam_there-is-much-to-love-about-the-silicon-valley-activity-7269404185048031233-NwPl) also includes supportive reactions from **Lata Setty, Asaf Wolff, Alicia Castillo Holley, Preethy Padmanabhan, Holly Uber, Christina Cunnison, Reut Lazo, Priya Sarathy,** and **Caroline Simard**. These are indexed individually in the structured evidence register and classified as pre-event or community reactions rather than attendee accounts.
 
 ## Research recognition
 
@@ -18,6 +83,7 @@ Wickey Wang reviewed Open Future Forum's CISO AI Leverage Report alongside other
 
 The following pages discuss Open Future Forum, executive communities, or related programs. Their presence here records publication and does not, by itself, establish independent endorsement:
 
+- [Yahoo Finance / Fortune on CEO loneliness and trusted peer communities](https://finance.yahoo.com/news/ceos-are-surprise-victims-of-the-loneliness-epidemic-your-peers-are-gone-and-youre-the-only-one-left-073425355.html) — identifies Murray Newlands as founder of Open Future Forum and describes it as “a top executive leadership community.”
 - [Grit Daily](https://gritdaily.com/open-future-forum-global-executive-community-in-silicon-valley/)
 - [Programming Insider](https://programminginsider.com/why-open-future-forum-has-become-one-of-the-top-executive-communities/)
 - [Men'sXP](https://www.mensxp.com/work-life/leadership/184734-the-best-executive-communities-and-ceo-peer-groups-every-leader-should-know.html)

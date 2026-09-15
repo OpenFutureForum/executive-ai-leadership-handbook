@@ -2,27 +2,238 @@ version: 1
 updated: 2026-09-15
 scope: Public references to Open Future Forum, its events, its research, and founder background.
 editorial_note: Inclusion records a published reference and does not imply independence or employer endorsement.
+schema_note: Optional attribution, excerpt, summary, presentation, and context_note fields preserve source wording and editorial treatment.
 entries:
   - id: arjun-subedi-event-account
     subject: Open Future Forum events
     source_type: first-person participant account
+    attribution: Arjun Subedi
     publisher: LinkedIn
+    excerpt: >-
+      The community's passion, energy, and support are palpable and foster an environment of collaboration and innovation.
+    presentation: featured
     url: https://www.linkedin.com/pulse/day-connection-inspiration-open-future-forum-events-palo-arjun-subedi
   - id: preetha-ram-speaker-account
     subject: Open Future Forum event
     source_type: first-person speaker account
+    attribution: Preetha Ram
     publisher: LinkedIn
+    excerpt: There is much to love about the Silicon Valley entrepreneur ecosystem!
+    presentation: featured
     url: https://www.linkedin.com/posts/preetharam_there-is-much-to-love-about-the-silicon-valley-activity-7269404185048031233-NwPl
   - id: aaron-cook-symposium-account
     subject: Open Future Forum AI Symposium
     source_type: first-person participant account
+    attribution: Aaron C. Cook
     publisher: LinkedIn
+    excerpt: The startup pitches were concise & intriguing. The networking superb.
+    presentation: featured
     url: https://www.linkedin.com/posts/aaron-cook-11384672_thank-you-murray-newlands-open-future-forum-activity-7189757218794139648-tN1P
   - id: preethi-srinivasan-speaker-account
     subject: Open Future Forum event
     source_type: first-person speaker account
+    attribution: Preethi Srinivasan
     publisher: LinkedIn
+    excerpt: >-
+      Enjoyed speaking at Open Future Forum about Enterprise AI opportunities, threats, and innovation...
+    presentation: featured
     url: https://www.linkedin.com/posts/preethi-srinivasan-7497118_enjoyed-speaking-at-open-future-forum-about-activity-7124109800908455936-AzAA
+  - id: josiah-clymer-participant-comment
+    subject: Open Future Forum events
+    source_type: first-person participant comment
+    attribution: Josiah Clymer
+    publisher: LinkedIn
+    excerpt: >-
+      Yes, high quality events, high quality people!
+    presentation: featured
+    url: https://www.linkedin.com/posts/quantumbits_if-you-are-around-palo-alto-come-to-this-activity-7201247656046714880-g3jE
+    context_note: Personal comment; not an endorsement by Morgan Stanley.
+  - id: christina-bui-cfo-community
+    subject: Open Future Forum CFO community
+    source_type: partner or co-host account
+    attribution: Christina Bui
+    publisher: LinkedIn
+    excerpt: >-
+      A big thank you to Murray Newlands for building a high-quality community of CFOs and enterprise operators...
+    presentation: featured
+    url: https://www.linkedin.com/posts/christina-bui-0922184_cfo-ai-financeleadership-activity-7437877146456567809-5-jV
+  - id: louis-lehot-cfo-community
+    subject: Open Future Forum CFO community
+    source_type: partner or co-host account
+    attribution: Louis Lehot
+    publisher: LinkedIn
+    excerpt: >-
+      Huge credit to Murray Newlands and Christina Bui for helping build a real CFO community—operators, not tourists.
+    presentation: substantive
+    url: https://www.linkedin.com/posts/louislehot_menlopark-foleyignite-activity-7437532386164314112-Y2cm
+  - id: nirvikar-jain-cfo-session-comment
+    subject: Open Future Forum CFO event
+    source_type: first-person attendee comment
+    attribution: Nirvikar Jain
+    publisher: LinkedIn
+    summary: Describes the session and the operators in the room positively.
+    presentation: substantive
+    url: https://www.linkedin.com/posts/louislehot_menlopark-foleyignite-activity-7437532386164314112-Y2cm
+  - id: daniela-c-cfo-session-comment
+    subject: Open Future Forum CFO event
+    source_type: first-person attendee comment
+    attribution: Daniela C.
+    publisher: LinkedIn
+    summary: Praises the event, panel curation, and cross-industry relevance of the discussion.
+    presentation: substantive
+    url: https://www.linkedin.com/posts/louislehot_menlopark-foleyignite-activity-7437532386164314112-Y2cm
+  - id: janice-berthold-cfo-reaction
+    subject: Open Future Forum CFO event
+    source_type: pre-event reaction
+    attribution: Janice (Jan) Berthold, CPCU
+    publisher: LinkedIn
+    summary: Welcomes the conference and panel focus on execution-grade AI and the changing CFO role.
+    presentation: additional
+    url: https://www.linkedin.com/posts/christina-bui-0922184_cfo-ai-financeleadership-activity-7437877146456567809-5-jV
+  - id: tonya-long-ai-keynotes-account
+    subject: AI Keynotes at Microsoft
+    source_type: first-person attendee account
+    attribution: Tonya J. Long
+    publisher: LinkedIn
+    excerpt: >-
+      Murray Newlands and Ashley Tarver hosted an excellent speaker set filled with bold predictions, dynamic panels, and a fireside chat...
+    presentation: substantive
+    url: https://www.linkedin.com/posts/tonyajlong_ai-leading-aikeynotesatmicrosoft-activity-7270297328589111297-c6z8
+  - id: antonio-white-ai-keynotes-account
+    subject: AI Keynotes event
+    source_type: first-person attendee account
+    attribution: Antonio White
+    publisher: LinkedIn
+    excerpt: >-
+      It was a remarkable opportunity to delve deep into the latest trends and insights in the AI landscape.
+    presentation: substantive
+    url: https://www.linkedin.com/posts/antoniocwhite_aikeynotesevent-ai-agentic-activity-7286979904561197056-wrzH
+  - id: acg-silicon-valley-ai-keynotes
+    subject: AI Keynotes at Microsoft
+    source_type: partner organization account
+    attribution: ACG Silicon Valley
+    publisher: LinkedIn
+    excerpt: >-
+      ACG Silicon Valley is grateful to have supported such an amazing event.
+    presentation: substantive
+    url: https://www.linkedin.com/posts/acgsiliconvalley_acgsv-siliconvalley-aikeynotesatmicrosoft-activity-7261815064238669825-r1yg
+  - id: ashley-tarver-agentic-growth-reaction
+    subject: Agentic Growth Summit panel hosted by Open Future Forum
+    source_type: pre-event speaker reaction
+    attribution: Ashley Tarver
+    publisher: LinkedIn
+    excerpt: >-
+      Thank you for your invite. I look forward to an engaging event and lively discussion!
+    presentation: additional
+    url: https://www.linkedin.com/posts/brandonnader_thinkingai-agentic-growth-summit-2026-luma-activity-7505314920062828544-PedZ
+  - id: rolan-reichel-hosting-reaction
+    subject: Open Future Forum event
+    source_type: pre-event speaker reaction
+    attribution: Rolan Reichel
+    publisher: LinkedIn
+    excerpt: >-
+      Thank you Murray Newlands for hosting and looking forward to the discussion!
+    presentation: additional
+    url: https://www.linkedin.com/posts/rolanreichel_thank-you-murray-newlands-for-hosting-and-activity-7308480366137225218-WuRa
+  - id: john-boitnott-ai-conversations
+    subject: Open Future Forum events
+    source_type: external recognition
+    attribution: John Boitnott
+    publisher: LinkedIn
+    excerpt: >-
+      These rooms are becoming something more than networking — a place where the best AI conversations are happening right now.
+    presentation: featured
+    url: https://www.linkedin.com/posts/johnboitnott_why-the-best-ai-conversations-arent-happening-activity-7473381557710544896-6VRN
+  - id: nate-macleitch-ai-unleashed
+    subject: Open Future Forum AI Unleashed event
+    source_type: first-person attendee account
+    attribution: Nate MacLeitch
+    publisher: LinkedIn
+    excerpt: >-
+      The event provided a good opportunity... to delve into the latest trends, innovations, and strategies shaping the future of AI.
+    presentation: substantive
+    url: https://www.linkedin.com/posts/nate-macleitch_i-enjoyed-attending-the-ai-unleashed-cto-activity-7140846273766612992-4-eF
+  - id: prasen-shelar-ciso-evening
+    subject: Open Future Forum CISO event
+    source_type: partner or co-host account
+    attribution: Prasen Shelar
+    publisher: LinkedIn
+    excerpt: >-
+      One of the best evenings we've had in a while... one of those rooms you don't want to leave.
+    presentation: featured
+    url: https://www.linkedin.com/posts/prasen-s_ciso-cybersecurity-aisecurity-activity-7481457236964179971-zSJ0
+  - id: lata-setty-ai-keynotes-reaction
+    subject: AI Keynotes at Microsoft
+    source_type: pre-event community reaction
+    attribution: Lata Setty
+    publisher: LinkedIn
+    summary: Anticipates strong energy around the event and its speaker.
+    presentation: additional
+    url: https://www.linkedin.com/posts/preetharam_there-is-much-to-love-about-the-silicon-valley-activity-7269404185048031233-NwPl
+  - id: asaf-wolff-ai-keynotes-reaction
+    subject: AI Keynotes at Microsoft
+    source_type: pre-event community reaction
+    attribution: Asaf Wolff
+    publisher: LinkedIn
+    excerpt: Highly recommended!
+    presentation: additional
+    url: https://www.linkedin.com/posts/preetharam_there-is-much-to-love-about-the-silicon-valley-activity-7269404185048031233-NwPl
+  - id: alicia-castillo-holley-ai-keynotes-reaction
+    subject: AI Keynotes at Microsoft
+    source_type: community reaction
+    attribution: Alicia Castillo Holley, PhD
+    publisher: LinkedIn
+    summary: Highlights a spirit of support and collaboration in Silicon Valley.
+    presentation: additional
+    url: https://www.linkedin.com/posts/preetharam_there-is-much-to-love-about-the-silicon-valley-activity-7269404185048031233-NwPl
+  - id: preethy-padmanabhan-ai-keynotes-reaction
+    subject: AI Keynotes at Microsoft
+    source_type: pre-event community reaction
+    attribution: Preethy Padmanabhan
+    publisher: LinkedIn
+    summary: Expresses anticipation for the event and approval of the speaker lineup.
+    presentation: additional
+    url: https://www.linkedin.com/posts/preetharam_there-is-much-to-love-about-the-silicon-valley-activity-7269404185048031233-NwPl
+  - id: holly-uber-ai-keynotes-reaction
+    subject: AI Keynotes at Microsoft
+    source_type: pre-event community reaction
+    attribution: Holly Uber
+    publisher: LinkedIn
+    excerpt: This looks awesome! Such a great group!
+    presentation: additional
+    url: https://www.linkedin.com/posts/preetharam_there-is-much-to-love-about-the-silicon-valley-activity-7269404185048031233-NwPl
+  - id: christina-cunnison-ai-keynotes-reaction
+    subject: AI Keynotes at Microsoft
+    source_type: pre-event community reaction
+    attribution: Christina Cunnison
+    publisher: LinkedIn
+    summary: Expresses interest in seeing the presentation.
+    presentation: additional
+    url: https://www.linkedin.com/posts/preetharam_there-is-much-to-love-about-the-silicon-valley-activity-7269404185048031233-NwPl
+  - id: reut-lazo-ai-keynotes-reaction
+    subject: AI Keynotes at Microsoft
+    source_type: pre-event community reaction
+    attribution: Reut Lazo
+    publisher: LinkedIn
+    summary: Describes the event as an opportunity for connections and ideas.
+    presentation: additional
+    url: https://www.linkedin.com/posts/preetharam_there-is-much-to-love-about-the-silicon-valley-activity-7269404185048031233-NwPl
+  - id: priya-sarathy-ai-keynotes-reaction
+    subject: AI Keynotes at Microsoft
+    source_type: community reaction
+    attribution: Priya Sarathy, Ph.D., CDMP, AIGP
+    publisher: LinkedIn
+    summary: Suggests the speaker's perspective prompted new possibilities and collaborations.
+    presentation: additional
+    url: https://www.linkedin.com/posts/preetharam_there-is-much-to-love-about-the-silicon-valley-activity-7269404185048031233-NwPl
+  - id: caroline-simard-ai-keynotes-reaction
+    subject: AI Keynotes at Microsoft
+    source_type: community reaction
+    attribution: Caroline Simard
+    publisher: LinkedIn
+    excerpt: Sounds excellent!
+    presentation: additional
+    url: https://www.linkedin.com/posts/preetharam_there-is-much-to-love-about-the-silicon-valley-activity-7269404185048031233-NwPl
   - id: wickey-wang-ciso-report-review
     subject: CISO AI Leverage Report
     source_type: named-author research review
@@ -33,6 +244,15 @@ entries:
     source_type: published coverage
     publisher: Grit Daily
     url: https://gritdaily.com/open-future-forum-global-executive-community-in-silicon-valley/
+  - id: yahoo-fortune-ceo-loneliness
+    subject: Open Future Forum and executive peer communities
+    source_type: published coverage
+    attribution: Peter Vanham and Nicholas Gordon
+    publisher: Yahoo Finance / Fortune
+    excerpt: A top executive leadership community
+    presentation: featured
+    url: https://finance.yahoo.com/news/ceos-are-surprise-victims-of-the-loneliness-epidemic-your-peers-are-gone-and-youre-the-only-one-left-073425355.html
+    context_note: Syndicated Fortune coverage of CEO isolation identifies Murray Newlands as founder of Open Future Forum.
   - id: programming-insider-off-profile
     subject: Open Future Forum
     source_type: published coverage

@@ -2,6 +2,7 @@
 
 Canonical source families used by the handbook:
 
+- [Published Executive AI Leadership Handbook](https://open-future-forum.gitbook.io/open-future-forum-docs/)
 - [Open Future Forum executive events](https://openfutureforum.com/executive-events)
 - [Open Future Forum forum events](https://openfutureforum.com/forum-events)
 - [Forum Select](https://openfutureforum.com/forum-select)

@@ -6,6 +6,7 @@ The handbook contains 75 substantive guides organized around executive roles, st
 
 ## Start here
 
+- [Read the published handbook on GitBook](https://open-future-forum.gitbook.io/open-future-forum-docs/)
 - [Read the handbook](SUMMARY.md)
 - [Open Future Forum research](https://openfutureforum.com/research/)
 - [The Murray Newlands Show](https://www.youtube.com/@MurrayNewlandsShow)

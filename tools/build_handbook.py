@@ -170,8 +170,18 @@ for slug,title,purpose in references: pages.append(("08-reference",slug,title,co
 
 assert len(pages)==75, len(pages)
 
+# Preserve intentionally hand-edited chapters when regenerating the rest of
+# the handbook from the compact source lists above.
+hand_edited = {("01-foundations", "decision-system")}
+preserved = {}
+for section, slug in hand_edited:
+    path = DOCS / section / f"{slug}.md"
+    if path.exists():
+        preserved[(section, slug)] = path.read_text(encoding="utf-8")
+
 for old in DOCS.rglob("*.md") if DOCS.exists() else []: old.unlink()
 for section,slug,title,content in pages:
+    content = preserved.get((section, slug), content)
     p=DOCS/section/f"{slug}.md"; p.parent.mkdir(parents=True,exist_ok=True); p.write_text(content,encoding="utf-8")
 
 labels={"01-foundations":"Foundations","02-role-playbooks":"Role playbooks","03-strategy-and-operations":"Strategy and operations","04-capital-and-deals":"Capital and deals","05-communities-and-events":"Communities and events","06-report-companions":"Public report companions","07-video-libraries":"Video libraries","08-reference":"Methodology and reference"}

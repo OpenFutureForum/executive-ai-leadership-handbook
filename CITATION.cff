@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: The Executive AI Leadership Handbook
+message: Please cite this work using the metadata in this file.
+type: book
+authors:
+  - name: Open Future Forum
+year: 2026
+license: CC-BY-4.0
+repository-code: https://github.com/OpenFutureForum/executive-ai-leadership-handbook
+url: https://github.com/OpenFutureForum/executive-ai-leadership-handbook

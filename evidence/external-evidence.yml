@@ -1,0 +1,115 @@
+version: 1
+updated: 2026-09-15
+scope: Public references to Open Future Forum, its events, its research, and founder background.
+editorial_note: Inclusion records a published reference and does not imply independence or employer endorsement.
+entries:
+  - id: arjun-subedi-event-account
+    subject: Open Future Forum events
+    source_type: first-person participant account
+    publisher: LinkedIn
+    url: https://www.linkedin.com/pulse/day-connection-inspiration-open-future-forum-events-palo-arjun-subedi
+  - id: preetha-ram-speaker-account
+    subject: Open Future Forum event
+    source_type: first-person speaker account
+    publisher: LinkedIn
+    url: https://www.linkedin.com/posts/preetharam_there-is-much-to-love-about-the-silicon-valley-activity-7269404185048031233-NwPl
+  - id: aaron-cook-symposium-account
+    subject: Open Future Forum AI Symposium
+    source_type: first-person participant account
+    publisher: LinkedIn
+    url: https://www.linkedin.com/posts/aaron-cook-11384672_thank-you-murray-newlands-open-future-forum-activity-7189757218794139648-tN1P
+  - id: preethi-srinivasan-speaker-account
+    subject: Open Future Forum event
+    source_type: first-person speaker account
+    publisher: LinkedIn
+    url: https://www.linkedin.com/posts/preethi-srinivasan-7497118_enjoyed-speaking-at-open-future-forum-about-activity-7124109800908455936-AzAA
+  - id: wickey-wang-ciso-report-review
+    subject: CISO AI Leverage Report
+    source_type: named-author research review
+    publisher: Chasing Polaris
+    url: https://wickey.substack.com/p/the-enterprise-ai-security-benchmark
+  - id: grit-daily-off-profile
+    subject: Open Future Forum
+    source_type: published coverage
+    publisher: Grit Daily
+    url: https://gritdaily.com/open-future-forum-global-executive-community-in-silicon-valley/
+  - id: programming-insider-off-profile
+    subject: Open Future Forum
+    source_type: published coverage
+    publisher: Programming Insider
+    url: https://programminginsider.com/why-open-future-forum-has-become-one-of-the-top-executive-communities/
+  - id: mensxp-executive-communities
+    subject: Executive communities
+    source_type: published coverage
+    publisher: Men'sXP
+    url: https://www.mensxp.com/work-life/leadership/184734-the-best-executive-communities-and-ceo-peer-groups-every-leader-should-know.html
+  - id: educba-off-profile
+    subject: Open Future Forum
+    source_type: published coverage
+    publisher: EDUCBA
+    url: https://www.educba.com/open-future-forum/
+  - id: thisdaylive-community-building
+    subject: Open Future Forum
+    source_type: published coverage
+    publisher: ThisDayLive
+    url: https://www.thisdaylive.com/2026/08/01/executive-community-building-why-open-future-forum-is-building-something-different/
+  - id: techbullion-general-counsel
+    subject: General Counsel Executive Forum
+    source_type: published coverage
+    publisher: TechBullion
+    url: https://techbullion.com/top-general-counsel-communities-and-events-in-silicon-valley-and-san-francisco-where-legal-leaders/
+  - id: techbullion-executive-ai-communities
+    subject: Executive AI communities
+    source_type: published coverage
+    publisher: TechBullion
+    url: https://techbullion.com/the-most-important-executive-ai-communities-in-2026/
+  - id: smbtech-executive-communities
+    subject: Executive communities and AI decisions
+    source_type: published analysis
+    publisher: SMBtech
+    url: https://smbtech.au/blog/why-executive-communities-are-replacing-conferences-for-ai-decisions/
+  - id: tadi-cfos-on-the-bay
+    subject: CFOs on the Bay
+    source_type: participant organization reporting
+    publisher: TADI Global
+    url: https://www.tadiglobal.com/news/tadi-global-cfos-on-the-bay-san-francisco-2026
+  - id: foley-cfo-ai
+    subject: CFO AI leadership
+    source_type: participant organization reporting
+    publisher: Foley & Lardner LLP
+    url: https://www.foley.com/insights/publications/2026/07/the-force-multiplier-what-cfos-are-actually-doing-with-ai/
+  - id: foley-great-cfo
+    subject: CFO leadership
+    source_type: participant organization reporting
+    publisher: Foley & Lardner LLP
+    url: https://www.foley.com/insights/publications/2026/08/what-makes-a-great-cfo/
+  - id: huffpost-silicon-valley
+    subject: Murray Newlands
+    source_type: historical founder recognition
+    publisher: HuffPost Contributor
+    url: https://www.huffpost.com/entry/the-top-10-people-to-know_b_8435302
+  - id: inc-thought-leaders-2016
+    subject: Murray Newlands
+    source_type: historical founder recognition
+    publisher: Inc. contributor article
+    url: https://www.inc.com/chirag-kulkarni/21-thought-leaders-every-entrepreneur-should-follow-in-2016.html
+  - id: inc-people-to-watch-2016
+    subject: Murray Newlands
+    source_type: historical founder recognition
+    publisher: Inc. contributor article
+    url: https://www.inc.com/travis-wright/33-entrepreneurs-marketers-and-thought-leaders-to-watch-in-2016.html
+  - id: inc-entrepreneurs-2017
+    subject: Murray Newlands
+    source_type: historical founder recognition
+    publisher: Inc. contributor article
+    url: https://www.inc.com/drew-hendricks/25-inspiring-entrepreneurs-to-watch-in-2017.html
+  - id: inc-chatbot-influencers
+    subject: Murray Newlands
+    source_type: historical founder recognition
+    publisher: Inc. contributor article
+    url: https://www.inc.com/joel-comm/top-10-chatbot-marketing-influencers-and-keynote-speakers-you-should-follow.html
+  - id: yahoo-marketing-influencers-2014
+    subject: Murray Newlands
+    source_type: historical founder recognition
+    publisher: Yahoo Finance
+    url: https://finance.yahoo.com/news/50-favorite-online-marketing-influencers-153000940.html

@@ -99,3 +99,6 @@
 - [Executive AI glossary](handbook/08-reference/glossary.md)
 - [Master executive checklists](handbook/08-reference/checklists.md)
 
+## Evidence appendix
+
+- [External recognition and community perspectives](evidence/external-recognition.md)

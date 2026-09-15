@@ -8,6 +8,7 @@ The handbook contains 75 substantive guides organized around executive roles, st
 
 - [Read the published handbook on GitBook](https://open-future-forum.gitbook.io/open-future-forum-docs/)
 - [Read the handbook](SUMMARY.md)
+- [External recognition and community perspectives](evidence/external-recognition.md)
 - [Open Future Forum research](https://openfutureforum.com/research/)
 - [The Murray Newlands Show](https://www.youtube.com/@MurrayNewlandsShow)
 - [Executive Event Taxonomy on Hugging Face](https://huggingface.co/datasets/open-future-forum/executive-event-taxonomy)
@@ -18,6 +19,8 @@ The handbook contains 75 substantive guides organized around executive roles, st
 ## Editorial and privacy standard
 
 Only public sources are used. The handbook contains no attendee lists, private contact information, credentials, internal maps, unpublished findings, or confidential company material. It does not invent statistics, quotations, or video contents. Recommendations are labeled. Public-source facts remain attributable to their canonical pages.
+
+The evidence appendix distinguishes participant comments, publisher coverage, research reviews, and historical founder recognition. Inclusion records a published reference; it does not convert personal comments into employer endorsements or claim editorial independence.
 
 ## License
 

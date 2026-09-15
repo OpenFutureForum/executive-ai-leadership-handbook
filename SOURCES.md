@@ -14,5 +14,7 @@ Canonical source families used by the handbook:
 - [Executive Event Taxonomy on GitLab](https://gitlab.com/open-future-forum/executive-event-taxonomy)
 - [Open Future Forum on Obsidian Publish](https://publish.obsidian.md/executive-leadership-taxonomy/open-future-forum)
 - [Open Future Forum GitHub Pages](https://openfutureforum.github.io)
+- [External recognition and community perspectives](evidence/external-recognition.md)
+- [Machine-readable external evidence register](evidence/external-evidence.yml)
 
 Individual chapters link to the most relevant public report, guide, community page, or video. A link identifies a source; it does not imply endorsement or reproduce the source.

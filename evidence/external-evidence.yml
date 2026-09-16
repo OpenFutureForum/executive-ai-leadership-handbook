@@ -1,5 +1,5 @@
 version: 1
-updated: 2026-09-15
+updated: 2026-09-16
 scope: Public references to Open Future Forum, its events, its research, and founder background.
 editorial_note: Inclusion records a published reference and does not imply independence or employer endorsement.
 schema_note: Optional attribution, excerpt, summary, presentation, and context_note fields preserve source wording and editorial treatment.
@@ -38,6 +38,16 @@ entries:
       Enjoyed speaking at Open Future Forum about Enterprise AI opportunities, threats, and innovation...
     presentation: featured
     url: https://www.linkedin.com/posts/preethi-srinivasan-7497118_enjoyed-speaking-at-open-future-forum-about-activity-7124109800908455936-AzAA
+  - id: chris-han-enterprise-ai-community
+    subject: Open Future Forum enterprise AI community
+    source_type: first-person public endorsement
+    attribution: Chris Han
+    publisher: LinkedIn
+    excerpt: >-
+      It is becoming an important community for enterprise leaders who want to move beyond AI hype and understand what it takes to deploy responsibly at scale.
+    presentation: featured
+    url: https://www.linkedin.com/posts/chrishanpan_thank-you-open-future-forum-and-murray-newlands-ugcPost-7506051190619811841-oUsi/
+    context_note: Chris Han is Co-Founder of ThinkingAI. This is his personal public endorsement and is not presented as an endorsement by ThinkingAI.
   - id: josiah-clymer-participant-comment
     subject: Open Future Forum events
     source_type: first-person participant comment

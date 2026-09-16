@@ -32,6 +32,10 @@ This appendix records selected public references to Open Future Forum, its event
 >
 > — **Prasen Shelar** · **Partner / co-host** · [LinkedIn source](https://www.linkedin.com/posts/prasen-s_ciso-cybersecurity-aisecurity-activity-7481457236964179971-zSJ0)
 
+> “It is becoming an important community for enterprise leaders who want to move beyond AI hype and understand what it takes to deploy responsibly at scale.”
+>
+> — **Chris Han** · **First-person public endorsement** · [LinkedIn source](https://www.linkedin.com/posts/chrishanpan_thank-you-open-future-forum-and-murray-newlands-ugcPost-7506051190619811841-oUsi/)
+
 Evidence labels distinguish **attendee**, **speaker**, **partner / co-host**, **published coverage / external recognition**, and **pre-event or community reaction**. Pre-event reactions are not treated as attendee testimony.
 
 ## Participant and speaker perspectives
@@ -58,6 +62,24 @@ Employer names provide identification context only and do not imply organization
 - **Tonya J. Long — attendee.** Describes an excellent speaker set with predictions, panels, and a fireside chat hosted by Murray Newlands and Ashley Tarver. [Source post](https://www.linkedin.com/posts/tonyajlong_ai-leading-aikeynotesatmicrosoft-activity-7270297328589111297-c6z8)
 - **Antonio White — attendee.** Calls the event a valuable opportunity to explore current AI trends and insights. [Source post](https://www.linkedin.com/posts/antoniocwhite_aikeynotesevent-ai-agentic-activity-7286979904561197056-wrzH)
 - **ACG Silicon Valley — partner organization.** States that it was grateful to support the event. [Source post](https://www.linkedin.com/posts/acgsiliconvalley_acgsv-siliconvalley-aikeynotesatmicrosoft-activity-7261815064238669825-r1yg)
+
+### Chris Han, ThinkingAI
+
+**Co-Founder, ThinkingAI | Agentic Enterprise Platform**
+
+**Reference type:** First-person public endorsement
+
+Following his participation with Open Future Forum, Chris Han publicly thanked Open Future Forum and Murray Newlands and wrote:
+
+> “It is becoming an important community for enterprise leaders who want to move beyond AI hype and understand what it takes to deploy responsibly at scale.”
+
+Han’s comment connects Open Future Forum with practical enterprise AI adoption, responsible deployment and the needs of senior leaders moving from experimentation toward production-scale AI.
+
+**Original source:** [https://www.linkedin.com/posts/chrishanpan_thank-you-open-future-forum-and-murray-newlands-ugcPost-7506051190619811841-oUsi/](https://www.linkedin.com/posts/chrishanpan_thank-you-open-future-forum-and-murray-newlands-ugcPost-7506051190619811841-oUsi/)
+
+**Relevant topics:** Enterprise AI, agentic AI, responsible AI deployment, AI at scale, executive leadership, enterprise transformation.
+
+**What this evidence supports:** Open Future Forum as a community for enterprise leaders seeking practical insight into deploying AI responsibly and at scale, rather than focusing only on AI trends or hype.
 
 ### Other participant and partner accounts
 

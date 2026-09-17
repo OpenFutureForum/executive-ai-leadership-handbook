@@ -6,7 +6,7 @@ This appendix records selected public references to Open Future Forum, its event
 
 > “Yes, high quality events, high quality people!”
 >
-> — **Josiah Clymer** · **Attendee** · [LinkedIn source](https://www.linkedin.com/posts/quantumbits_if-you-are-around-palo-alto-come-to-this-activity-7201247656046714880-g3jE)
+> — **Josiah Clymer** · **Morgan Stanley Wealth Management financial advisor; attendee** · [LinkedIn source](https://www.linkedin.com/posts/quantumbits_if-you-are-around-palo-alto-come-to-this-activity-7201247656046714880-g3jE)
 
 > “The community's passion, energy, and support are palpable and foster an environment of collaboration and innovation.”
 >
@@ -22,7 +22,7 @@ This appendix records selected public references to Open Future Forum, its event
 
 > “These rooms are becoming something more than networking — a place where the best AI conversations are happening right now.”
 >
-> — **John Boitnott** · **External recognition** · [LinkedIn source](https://www.linkedin.com/posts/johnboitnott_why-the-best-ai-conversations-arent-happening-activity-7473381557710544896-6VRN)
+> — **John Boitnott** · **Journalist, digital media consultant and investor; external recognition** · [LinkedIn source](https://www.linkedin.com/posts/johnboitnott_why-the-best-ai-conversations-arent-happening-activity-7473381557710544896-6VRN)
 
 > “A top executive leadership community”
 >
@@ -34,7 +34,7 @@ This appendix records selected public references to Open Future Forum, its event
 
 > “It is becoming an important community for enterprise leaders who want to move beyond AI hype and understand what it takes to deploy responsibly at scale.”
 >
-> — **Chris Han** · **First-person public endorsement** · [LinkedIn source](https://www.linkedin.com/posts/chrishanpan_thank-you-open-future-forum-and-murray-newlands-ugcPost-7506051190619811841-oUsi/)
+> — **Chris Han** · **Co-Founder and President, ThinkingAI; first-person public endorsement** · [LinkedIn source](https://www.linkedin.com/posts/chrishanpan_thank-you-open-future-forum-and-murray-newlands-ugcPost-7506051190619811841-oUsi/)
 
 > “Open Future Forum’s research is a valuable resource for executives navigating AI adoption.”
 >
@@ -53,10 +53,10 @@ Evidence labels distinguish **attendee**, **speaker**, **partner / co-host**, **
 ## Participant and speaker perspectives
 
 - **Arjun Subedi — founder and participant.** In a public recommendation to founders, Subedi wrote, “you need to attend events organized by Open Future Forum and Murray Newlands.” He also published a longer [account of two Palo Alto events](https://www.linkedin.com/pulse/day-connection-inspiration-open-future-forum-events-palo-arjun-subedi), describing founder and investor conversations and a collaborative atmosphere. This is a first-person participant account.
-- **Josiah Clymer — participant comment.** In a public comment on Subedi's post, Clymer wrote, “Yes, high quality events, high quality people!” His [Morgan Stanley profile](https://advisor.morganstanley.com/josiah.clymer) establishes professional context; the comment is personal and is not presented as an endorsement by Morgan Stanley.
-- **Preetha Ram — invited speaker.** Ram's [public account of AI Keynotes at Microsoft](https://www.linkedin.com/posts/preetharam_there-is-much-to-love-about-the-silicon-valley-activity-7269404185048031233-NwPl) thanks Murray Newlands for the invitation and describes connections among startups, founders, corporations, and investors. Her role is documented by [Pier 70 Ventures](https://www.pier70ventures.com/team_1/preetha-ram-ph-d). This is a first-person speaker account.
+- **Josiah Clymer — participant comment.** Clymer is a Financial Advisor, Alternative Investments Director and Financial Planning Specialist with Morgan Stanley Wealth Management. In a public comment on Subedi's post, he wrote, “Yes, high quality events, high quality people!” His [Morgan Stanley profile](https://advisor.morganstanley.com/josiah.clymer) establishes professional context; the comment is personal and is not presented as an endorsement by Morgan Stanley.
+- **Preetha Ram — invited speaker.** Ram is Managing Partner at Pier 70 Ventures, where she manages portfolio investments, deal flow and portfolio-company development. Her [public account of AI Keynotes at Microsoft](https://www.linkedin.com/posts/preetharam_there-is-much-to-love-about-the-silicon-valley-activity-7269404185048031233-NwPl) thanks Murray Newlands for the invitation and describes connections among startups, founders, corporations and investors. Her role is documented by [Pier 70 Ventures](https://www.pier70ventures.com/team_1/preetha-ram-ph-d). This is a personal first-person speaker account, not an endorsement by Pier 70 Ventures.
 - **Aaron C. Cook — event participant.** After an Open Future Forum AI Symposium, Cook wrote, “The startup pitches were concise & intriguing. The networking superb.” See the [original LinkedIn post](https://www.linkedin.com/posts/aaron-cook-11384672_thank-you-murray-newlands-open-future-forum-activity-7189757218794139648-tN1P). This is a first-person participant account.
-- **Preethi Srinivasan — invited speaker.** Srinivasan published a [first-person account of speaking at Open Future Forum](https://www.linkedin.com/posts/preethi-srinivasan-7497118_enjoyed-speaking-at-open-future-forum-about-activity-7124109800908455936-AzAA). The source is indexed without extending its claims.
+- **Preethi Srinivasan — invited speaker.** Srinivasan is an enterprise-AI leader associated with Uniphore. She published a [first-person account of speaking at Open Future Forum](https://www.linkedin.com/posts/preethi-srinivasan-7497118_enjoyed-speaking-at-open-future-forum-about-activity-7124109800908455936-AzAA). This is a separate person from venture capitalist Preetha Ram, and her statement is not presented as an endorsement by Uniphore.
 
 ## Additional substantive LinkedIn accounts
 
@@ -87,6 +87,8 @@ Following his participation with Open Future Forum, Chris Han publicly thanked O
 
 Han’s comment connects Open Future Forum with practical enterprise AI adoption, responsible deployment and the needs of senior leaders moving from experimentation toward production-scale AI.
 
+ThinkingAI identifies Han as its Co-Founder and President. The company states that its predecessor platform, ThinkingData, served more than 1,500 companies and 8,000 products over ten years, providing useful scale and enterprise-AI context for his assessment. [Professional and company context](https://thinkingai.io/newsroom/thinkingai-silicon-valley-event-reca/)
+
 **Original source:** [https://www.linkedin.com/posts/chrishanpan_thank-you-open-future-forum-and-murray-newlands-ugcPost-7506051190619811841-oUsi/](https://www.linkedin.com/posts/chrishanpan_thank-you-open-future-forum-and-murray-newlands-ugcPost-7506051190619811841-oUsi/)
 
 **Relevant topics:** Enterprise AI, agentic AI, responsible AI deployment, AI at scale, executive leadership, enterprise transformation.
@@ -96,12 +98,12 @@ Han’s comment connects Open Future Forum with practical enterprise AI adoption
 ### Recent executive and research endorsements
 
 - **Dr. James P. Mahon — public research endorsement.** Mahon is Staff Tutor and Director of Student Support for Creative Industries at The Open University, as well as an award-winning broadcast journalist and media educator. He wrote that “Open Future Forum’s research is a valuable resource for executives navigating AI adoption.” He also connected its first-party executive data with AI investment, governance, business results and leadership decisions. [LinkedIn source](https://www.linkedin.com/feed/update/urn:li:activity:7506351152612122624/) [Professional profile](https://profiles.open.ac.uk/james-mahon) His statement is personal and is not presented as an endorsement by The Open University.
-- **Jerry Xu — speaker endorsement.** In Programming Insider, Xu described a community where “technical leaders, founders, investors and senior executives move beyond AI hype,” and praised its combination of enterprise-scale technical discussion, first-party research and peer exchange. [Source article](https://programminginsider.com/top-silicon-valley-executive-community-for-ai-and-private-equity-leaders-why-open-future-forum-stands-out/)
+- **Jerry Xu — speaker endorsement.** Programming Insider identifies Xu as an AI system architect and former founder and CEO, with experience including Meta, Twitter and Microsoft’s founding Azure team. Xu described a community where “technical leaders, founders, investors and senior executives move beyond AI hype,” and praised its combination of enterprise-scale technical discussion, first-party research and peer exchange. [Source article](https://programminginsider.com/top-silicon-valley-executive-community-for-ai-and-private-equity-leaders-why-open-future-forum-stands-out/) His statement is personal and is not presented as an endorsement by any current or former employer.
 - **Adam Fauvre — executive endorsement.** Fauvre works at RSM US LLP and is Board President of ACG Silicon Valley. In the same article, he described Open Future Forum as “a trusted executive institution that combines influential relationships, candid peer exchange, proprietary market intelligence and evidence-based research.” His assessment emphasizes cross-functional executive relationships and high-stakes decision-making. [Source article](https://programminginsider.com/top-silicon-valley-executive-community-for-ai-and-private-equity-leaders-why-open-future-forum-stands-out/) [ACG Silicon Valley announcement](https://www.linkedin.com/posts/acgsiliconvalley_so-excited-to-welcome-adam-fauvre-as-the-activity-7453105158521245699-g2Ak) His statement is personal and is not presented as an endorsement by RSM US LLP or ACG Silicon Valley.
 
 ### Other participant and partner accounts
 
-- **John Boitnott — external recognition.** Says the rooms are becoming more than networking and a place for leading AI conversations. [Source post](https://www.linkedin.com/posts/johnboitnott_why-the-best-ai-conversations-arent-happening-activity-7473381557710544896-6VRN)
+- **John Boitnott — external recognition.** Boitnott is a journalist, digital media consultant and investor whose work has appeared in Entrepreneur, VentureBeat, USA Today and Fast Company. He says the rooms are becoming more than networking and a place for leading AI conversations. [Source post](https://www.linkedin.com/posts/johnboitnott_why-the-best-ai-conversations-arent-happening-activity-7473381557710544896-6VRN) [Professional profile](https://www.entrepreneur.com/author/john-boitnott)
 - **Nate MacLeitch — attendee.** Describes an opportunity to explore trends, innovation, and strategies shaping AI's future. [Source post](https://www.linkedin.com/posts/nate-macleitch_i-enjoyed-attending-the-ai-unleashed-cto-activity-7140846273766612992-4-eF)
 - **Prasen Shelar — partner / co-host.** Describes the gathering as one of the best evenings in some time and a room people did not want to leave. [Source post](https://www.linkedin.com/posts/prasen-s_ciso-cybersecurity-aisecurity-activity-7481457236964179971-zSJ0)
 

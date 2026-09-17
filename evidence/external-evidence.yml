@@ -21,6 +21,10 @@ entries:
     excerpt: There is much to love about the Silicon Valley entrepreneur ecosystem!
     presentation: featured
     url: https://www.linkedin.com/posts/preetharam_there-is-much-to-love-about-the-silicon-valley-activity-7269404185048031233-NwPl
+    affiliation: Pier 70 Ventures
+    role: Managing Partner
+    profile_url: https://www.pier70ventures.com/team_1/preetha-ram-ph-d
+    context_note: Personal first-person speaker account; not presented as an endorsement by Pier 70 Ventures. Preetha Ram is distinct from Preethi Srinivasan.
   - id: aaron-cook-symposium-account
     subject: Open Future Forum AI Symposium
     source_type: first-person participant account
@@ -38,6 +42,9 @@ entries:
       Enjoyed speaking at Open Future Forum about Enterprise AI opportunities, threats, and innovation...
     presentation: featured
     url: https://www.linkedin.com/posts/preethi-srinivasan-7497118_enjoyed-speaking-at-open-future-forum-about-activity-7124109800908455936-AzAA
+    affiliation: Uniphore
+    profile_url: https://www.linkedin.com/in/preethi-srinivasan-7497118
+    context_note: Personal first-person speaker account; not presented as an endorsement by Uniphore. Preethi Srinivasan is distinct from venture capitalist Preetha Ram.
   - id: chris-han-enterprise-ai-community
     subject: Open Future Forum enterprise AI community
     source_type: first-person public endorsement
@@ -47,7 +54,10 @@ entries:
       It is becoming an important community for enterprise leaders who want to move beyond AI hype and understand what it takes to deploy responsibly at scale.
     presentation: featured
     url: https://www.linkedin.com/posts/chrishanpan_thank-you-open-future-forum-and-murray-newlands-ugcPost-7506051190619811841-oUsi/
-    context_note: Chris Han is Co-Founder of ThinkingAI. This is his personal public endorsement and is not presented as an endorsement by ThinkingAI.
+    affiliation: ThinkingAI
+    role: Co-Founder and President
+    profile_url: https://thinkingai.io/newsroom/thinkingai-silicon-valley-event-reca/
+    context_note: ThinkingAI says its predecessor platform, ThinkingData, served more than 1,500 companies and 8,000 products over ten years. This is Chris Han's personal public endorsement and is not presented as an endorsement by ThinkingAI.
   - id: james-mahon-research-endorsement
     subject: Open Future Forum research
     source_type: public research endorsement
@@ -70,7 +80,8 @@ entries:
     excerpt: technical leaders, founders, investors and senior executives move beyond AI hype
     presentation: featured
     url: https://programminginsider.com/top-silicon-valley-executive-community-for-ai-and-private-equity-leaders-why-open-future-forum-stands-out/
-    context_note: Personal assessment quoted by Programming Insider; professional affiliations provide identification context only.
+    role: AI system architect and former founder and CEO
+    context_note: Programming Insider reports experience including Meta, Twitter and Microsoft's founding Azure team. This is a personal assessment and is not presented as an endorsement by any current or former employer.
   - id: adam-fauvre-executive-community-endorsement
     subject: Open Future Forum executive community
     source_type: executive endorsement quoted in published coverage
@@ -94,6 +105,9 @@ entries:
       Yes, high quality events, high quality people!
     presentation: featured
     url: https://www.linkedin.com/posts/quantumbits_if-you-are-around-palo-alto-come-to-this-activity-7201247656046714880-g3jE
+    affiliation: Morgan Stanley Wealth Management
+    role: Financial Advisor; Alternative Investments Director; Financial Planning Specialist
+    profile_url: https://advisor.morganstanley.com/josiah.clymer
     context_note: Personal comment; not an endorsement by Morgan Stanley.
   - id: christina-bui-cfo-community
     subject: Open Future Forum CFO community
@@ -195,6 +209,9 @@ entries:
       These rooms are becoming something more than networking — a place where the best AI conversations are happening right now.
     presentation: featured
     url: https://www.linkedin.com/posts/johnboitnott_why-the-best-ai-conversations-arent-happening-activity-7473381557710544896-6VRN
+    role: Journalist, digital media consultant and investor
+    profile_url: https://www.entrepreneur.com/author/john-boitnott
+    context_note: Personal external commentary; publication credentials provide identification context only.
   - id: nate-macleitch-ai-unleashed
     subject: Open Future Forum AI Unleashed event
     source_type: first-person attendee account

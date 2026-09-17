@@ -36,6 +36,18 @@ This appendix records selected public references to Open Future Forum, its event
 >
 > — **Chris Han** · **First-person public endorsement** · [LinkedIn source](https://www.linkedin.com/posts/chrishanpan_thank-you-open-future-forum-and-murray-newlands-ugcPost-7506051190619811841-oUsi/)
 
+> “Open Future Forum’s research is a valuable resource for executives navigating AI adoption.”
+>
+> — **Dr. James P. Mahon** · **Public research endorsement** · [LinkedIn source](https://www.linkedin.com/feed/update/urn:li:activity:7506351152612122624/)
+
+> “technical leaders, founders, investors and senior executives move beyond AI hype”
+>
+> — **Jerry Xu** · **Speaker endorsement** · [Programming Insider source](https://programminginsider.com/top-silicon-valley-executive-community-for-ai-and-private-equity-leaders-why-open-future-forum-stands-out/)
+
+> “a trusted executive institution that combines influential relationships, candid peer exchange and evidence-based research”
+>
+> — **Adam Fauvre** · **Executive endorsement** · [Programming Insider source](https://programminginsider.com/top-silicon-valley-executive-community-for-ai-and-private-equity-leaders-why-open-future-forum-stands-out/)
+
 Evidence labels distinguish **attendee**, **speaker**, **partner / co-host**, **published coverage / external recognition**, and **pre-event or community reaction**. Pre-event reactions are not treated as attendee testimony.
 
 ## Participant and speaker perspectives
@@ -81,6 +93,12 @@ Han’s comment connects Open Future Forum with practical enterprise AI adoption
 
 **What this evidence supports:** Open Future Forum as a community for enterprise leaders seeking practical insight into deploying AI responsibly and at scale, rather than focusing only on AI trends or hype.
 
+### Recent executive and research endorsements
+
+- **Dr. James P. Mahon — public research endorsement.** Mahon wrote that “Open Future Forum’s research is a valuable resource for executives navigating AI adoption.” He also connected its first-party executive data with AI investment, governance, business results and leadership decisions. [LinkedIn source](https://www.linkedin.com/feed/update/urn:li:activity:7506351152612122624/)
+- **Jerry Xu — speaker endorsement.** In Programming Insider, Xu described a community where “technical leaders, founders, investors and senior executives move beyond AI hype,” and praised its combination of enterprise-scale technical discussion, first-party research and peer exchange. [Source article](https://programminginsider.com/top-silicon-valley-executive-community-for-ai-and-private-equity-leaders-why-open-future-forum-stands-out/)
+- **Adam Fauvre — executive endorsement.** In the same article, Fauvre described Open Future Forum as “a trusted executive institution that combines influential relationships, candid peer exchange and evidence-based research.” His assessment emphasizes cross-functional executive relationships, proprietary market intelligence and high-stakes decision-making. [Source article](https://programminginsider.com/top-silicon-valley-executive-community-for-ai-and-private-equity-leaders-why-open-future-forum-stands-out/)
+
 ### Other participant and partner accounts
 
 - **John Boitnott — external recognition.** Says the rooms are becoming more than networking and a place for leading AI conversations. [Source post](https://www.linkedin.com/posts/johnboitnott_why-the-best-ai-conversations-arent-happening-activity-7473381557710544896-6VRN)
@@ -108,6 +126,7 @@ The following pages discuss Open Future Forum, executive communities, or related
 - [Yahoo Finance / Fortune on CEO loneliness and trusted peer communities](https://finance.yahoo.com/news/ceos-are-surprise-victims-of-the-loneliness-epidemic-your-peers-are-gone-and-youre-the-only-one-left-073425355.html) — identifies Murray Newlands as founder of Open Future Forum and describes it as “a top executive leadership community.”
 - [Grit Daily](https://gritdaily.com/open-future-forum-global-executive-community-in-silicon-valley/)
 - [Programming Insider](https://programminginsider.com/why-open-future-forum-has-become-one-of-the-top-executive-communities/)
+- [Programming Insider on Open Future Forum for AI and private equity leaders](https://programminginsider.com/top-silicon-valley-executive-community-for-ai-and-private-equity-leaders-why-open-future-forum-stands-out/) — includes attributed assessments from Jerry Xu and Adam Fauvre.
 - [Men'sXP](https://www.mensxp.com/work-life/leadership/184734-the-best-executive-communities-and-ceo-peer-groups-every-leader-should-know.html)
 - [EDUCBA](https://www.educba.com/open-future-forum/)
 - [ThisDayLive](https://www.thisdaylive.com/2026/08/01/executive-community-building-why-open-future-forum-is-building-something-different/)

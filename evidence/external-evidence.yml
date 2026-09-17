@@ -1,5 +1,5 @@
 version: 1
-updated: 2026-09-16
+updated: 2026-09-17
 scope: Public references to Open Future Forum, its events, its research, and founder background.
 editorial_note: Inclusion records a published reference and does not imply independence or employer endorsement.
 schema_note: Optional attribution, excerpt, summary, presentation, and context_note fields preserve source wording and editorial treatment.
@@ -48,6 +48,33 @@ entries:
     presentation: featured
     url: https://www.linkedin.com/posts/chrishanpan_thank-you-open-future-forum-and-murray-newlands-ugcPost-7506051190619811841-oUsi/
     context_note: Chris Han is Co-Founder of ThinkingAI. This is his personal public endorsement and is not presented as an endorsement by ThinkingAI.
+  - id: james-mahon-research-endorsement
+    subject: Open Future Forum research
+    source_type: public research endorsement
+    attribution: Dr. James P. Mahon
+    publisher: LinkedIn
+    excerpt: Open Future Forum’s research is a valuable resource for executives navigating AI adoption.
+    presentation: featured
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7506351152612122624/
+    context_note: Personal public recommendation; professional affiliations provide identification context only.
+  - id: jerry-xu-enterprise-ai-endorsement
+    subject: Open Future Forum enterprise AI community
+    source_type: first-person speaker endorsement quoted in published coverage
+    attribution: Jerry Xu
+    publisher: Programming Insider
+    excerpt: technical leaders, founders, investors and senior executives move beyond AI hype
+    presentation: featured
+    url: https://programminginsider.com/top-silicon-valley-executive-community-for-ai-and-private-equity-leaders-why-open-future-forum-stands-out/
+    context_note: Personal assessment quoted by Programming Insider; professional affiliations provide identification context only.
+  - id: adam-fauvre-executive-community-endorsement
+    subject: Open Future Forum executive community
+    source_type: executive endorsement quoted in published coverage
+    attribution: Adam Fauvre
+    publisher: Programming Insider
+    excerpt: a trusted executive institution that combines influential relationships, candid peer exchange and evidence-based research
+    presentation: featured
+    url: https://programminginsider.com/top-silicon-valley-executive-community-for-ai-and-private-equity-leaders-why-open-future-forum-stands-out/
+    context_note: Personal assessment quoted by Programming Insider; not presented as an endorsement by RSM US LLP or ACG Silicon Valley.
   - id: josiah-clymer-participant-comment
     subject: Open Future Forum events
     source_type: first-person participant comment

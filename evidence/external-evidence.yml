@@ -70,6 +70,19 @@ entries:
     role: Staff Tutor and Director of Student Support for Creative Industries
     profile_url: https://profiles.open.ac.uk/james-mahon
     context_note: Dr. James P. Mahon is also an award-winning broadcast journalist and media educator. This is his personal public recommendation and is not presented as an endorsement by The Open University.
+  - id: pk-prasanna-kumar-community-research-endorsement
+    subject: Open Future Forum executive community and AI research
+    source_type: public community and research endorsement
+    attribution: Prof. PK Prasanna Kumar
+    publisher: LinkedIn
+    excerpt: >-
+      Open Future Forum is one of Silicon Valley’s leading executive communities, and its reports set a gold standard for practical, executive-focused AI research.
+    presentation: featured
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7506396382308687872/
+    affiliation: Duke University
+    role: Mentor
+    profile_url: https://www.linkedin.com/in/profpk/
+    context_note: After attending an Open Future Forum CMO event, Prof. PK Prasanna Kumar praised its peer learning, executive community and first-party AI research, which he said he uses in teaching and advisory work. This is his personal public endorsement and is not presented as an endorsement by Duke University or any other organization.
   - id: jerry-xu-enterprise-ai-endorsement
     subject: Open Future Forum enterprise AI community
     source_type: first-person speaker endorsement quoted in published coverage

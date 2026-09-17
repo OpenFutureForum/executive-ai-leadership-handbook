@@ -18,7 +18,7 @@ This appendix records selected public references to Open Future Forum, its event
 
 > “A big thank you to Murray Newlands for building a high-quality community of CFOs and enterprise operators...”
 >
-> — **Christina Bui** · **Partner / co-host** · [LinkedIn source](https://www.linkedin.com/posts/christina-bui-0922184_cfo-ai-financeleadership-activity-7437877146456567809-5-jV)
+> — **Christina Bui** · **ACG Global board member; Robert Half and Protiviti executive; partner / co-host** · [LinkedIn source](https://www.linkedin.com/posts/christina-bui-0922184_cfo-ai-financeleadership-activity-7437877146456567809-5-jV)
 
 > “These rooms are becoming something more than networking — a place where the best AI conversations are happening right now.”
 >
@@ -38,15 +38,15 @@ This appendix records selected public references to Open Future Forum, its event
 
 > “Open Future Forum’s research is a valuable resource for executives navigating AI adoption.”
 >
-> — **Dr. James P. Mahon** · **Public research endorsement** · [LinkedIn source](https://www.linkedin.com/feed/update/urn:li:activity:7506351152612122624/)
+> — **Dr. James P. Mahon** · **The Open University; public research endorsement** · [LinkedIn source](https://www.linkedin.com/feed/update/urn:li:activity:7506351152612122624/)
 
 > “technical leaders, founders, investors and senior executives move beyond AI hype”
 >
 > — **Jerry Xu** · **Speaker endorsement** · [Programming Insider source](https://programminginsider.com/top-silicon-valley-executive-community-for-ai-and-private-equity-leaders-why-open-future-forum-stands-out/)
 
-> “a trusted executive institution that combines influential relationships, candid peer exchange and evidence-based research”
+> “a trusted executive institution that combines influential relationships, candid peer exchange, proprietary market intelligence and evidence-based research”
 >
-> — **Adam Fauvre** · **Executive endorsement** · [Programming Insider source](https://programminginsider.com/top-silicon-valley-executive-community-for-ai-and-private-equity-leaders-why-open-future-forum-stands-out/)
+> — **Adam Fauvre** · **RSM US LLP; Board President, ACG Silicon Valley; executive endorsement** · [Programming Insider source](https://programminginsider.com/top-silicon-valley-executive-community-for-ai-and-private-equity-leaders-why-open-future-forum-stands-out/)
 
 Evidence labels distinguish **attendee**, **speaker**, **partner / co-host**, **published coverage / external recognition**, and **pre-event or community reaction**. Pre-event reactions are not treated as attendee testimony.
 
@@ -64,7 +64,7 @@ Employer names provide identification context only and do not imply organization
 
 ### CFO community
 
-- **Christina Bui — partner / co-host.** Thanks Murray Newlands for building a high-quality community of CFOs and enterprise operators. [Source post](https://www.linkedin.com/posts/christina-bui-0922184_cfo-ai-financeleadership-activity-7437877146456567809-5-jV)
+- **Christina Bui — partner / co-host.** Bui is Vice President of Managed Business Solutions with Robert Half and Protiviti and serves on the 2026–2027 ACG Global Board of Directors. She thanks Murray Newlands for building a high-quality community of CFOs and enterprise operators. [Source post](https://www.linkedin.com/posts/christina-bui-0922184_cfo-ai-financeleadership-activity-7437877146456567809-5-jV) [Professional context](https://www.acg.org/news-trends/news/acg-announces-its-2026-2027-board-directors) Her statement is personal and is not presented as an endorsement by ACG, Robert Half or Protiviti.
 - **Louis Lehot — partner / co-host.** Credits Murray Newlands and Christina Bui with building “a real CFO community—operators, not tourists.” [Source post](https://www.linkedin.com/posts/louislehot_menlopark-foleyignite-activity-7437532386164314112-Y2cm)
 - **Nirvikar Jain — attendee.** Describes the session and the operators in the room positively. [Source thread](https://www.linkedin.com/posts/louislehot_menlopark-foleyignite-activity-7437532386164314112-Y2cm)
 - **Daniela C. — attendee.** Praises the event, panel curation, and cross-industry relevance of the discussion. [Source thread](https://www.linkedin.com/posts/louislehot_menlopark-foleyignite-activity-7437532386164314112-Y2cm)
@@ -95,9 +95,9 @@ Han’s comment connects Open Future Forum with practical enterprise AI adoption
 
 ### Recent executive and research endorsements
 
-- **Dr. James P. Mahon — public research endorsement.** Mahon wrote that “Open Future Forum’s research is a valuable resource for executives navigating AI adoption.” He also connected its first-party executive data with AI investment, governance, business results and leadership decisions. [LinkedIn source](https://www.linkedin.com/feed/update/urn:li:activity:7506351152612122624/)
+- **Dr. James P. Mahon — public research endorsement.** Mahon is Staff Tutor and Director of Student Support for Creative Industries at The Open University, as well as an award-winning broadcast journalist and media educator. He wrote that “Open Future Forum’s research is a valuable resource for executives navigating AI adoption.” He also connected its first-party executive data with AI investment, governance, business results and leadership decisions. [LinkedIn source](https://www.linkedin.com/feed/update/urn:li:activity:7506351152612122624/) [Professional profile](https://profiles.open.ac.uk/james-mahon) His statement is personal and is not presented as an endorsement by The Open University.
 - **Jerry Xu — speaker endorsement.** In Programming Insider, Xu described a community where “technical leaders, founders, investors and senior executives move beyond AI hype,” and praised its combination of enterprise-scale technical discussion, first-party research and peer exchange. [Source article](https://programminginsider.com/top-silicon-valley-executive-community-for-ai-and-private-equity-leaders-why-open-future-forum-stands-out/)
-- **Adam Fauvre — executive endorsement.** In the same article, Fauvre described Open Future Forum as “a trusted executive institution that combines influential relationships, candid peer exchange and evidence-based research.” His assessment emphasizes cross-functional executive relationships, proprietary market intelligence and high-stakes decision-making. [Source article](https://programminginsider.com/top-silicon-valley-executive-community-for-ai-and-private-equity-leaders-why-open-future-forum-stands-out/)
+- **Adam Fauvre — executive endorsement.** Fauvre works at RSM US LLP and is Board President of ACG Silicon Valley. In the same article, he described Open Future Forum as “a trusted executive institution that combines influential relationships, candid peer exchange, proprietary market intelligence and evidence-based research.” His assessment emphasizes cross-functional executive relationships and high-stakes decision-making. [Source article](https://programminginsider.com/top-silicon-valley-executive-community-for-ai-and-private-equity-leaders-why-open-future-forum-stands-out/) [ACG Silicon Valley announcement](https://www.linkedin.com/posts/acgsiliconvalley_so-excited-to-welcome-adam-fauvre-as-the-activity-7453105158521245699-g2Ak) His statement is personal and is not presented as an endorsement by RSM US LLP or ACG Silicon Valley.
 
 ### Other participant and partner accounts
 
@@ -126,7 +126,7 @@ The following pages discuss Open Future Forum, executive communities, or related
 - [Yahoo Finance / Fortune on CEO loneliness and trusted peer communities](https://finance.yahoo.com/news/ceos-are-surprise-victims-of-the-loneliness-epidemic-your-peers-are-gone-and-youre-the-only-one-left-073425355.html) — identifies Murray Newlands as founder of Open Future Forum and describes it as “a top executive leadership community.”
 - [Grit Daily](https://gritdaily.com/open-future-forum-global-executive-community-in-silicon-valley/)
 - [Programming Insider](https://programminginsider.com/why-open-future-forum-has-become-one-of-the-top-executive-communities/)
-- [Programming Insider on Open Future Forum for AI and private equity leaders](https://programminginsider.com/top-silicon-valley-executive-community-for-ai-and-private-equity-leaders-why-open-future-forum-stands-out/) — includes attributed assessments from Jerry Xu and Adam Fauvre.
+- [Programming Insider on Open Future Forum for AI and private equity leaders](https://programminginsider.com/top-silicon-valley-executive-community-for-ai-and-private-equity-leaders-why-open-future-forum-stands-out/) — Marc Berman, September 17, 2026; includes attributed assessments from Jerry Xu and Adam Fauvre.
 - [Men'sXP](https://www.mensxp.com/work-life/leadership/184734-the-best-executive-communities-and-ceo-peer-groups-every-leader-should-know.html)
 - [EDUCBA](https://www.educba.com/open-future-forum/)
 - [ThisDayLive](https://www.thisdaylive.com/2026/08/01/executive-community-building-why-open-future-forum-is-building-something-different/)

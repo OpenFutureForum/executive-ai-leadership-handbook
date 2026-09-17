@@ -56,12 +56,17 @@ entries:
     excerpt: Open Future Forum’s research is a valuable resource for executives navigating AI adoption.
     presentation: featured
     url: https://www.linkedin.com/feed/update/urn:li:activity:7506351152612122624/
-    context_note: Personal public recommendation; professional affiliations provide identification context only.
+    affiliation: The Open University
+    role: Staff Tutor and Director of Student Support for Creative Industries
+    profile_url: https://profiles.open.ac.uk/james-mahon
+    context_note: Dr. James P. Mahon is also an award-winning broadcast journalist and media educator. This is his personal public recommendation and is not presented as an endorsement by The Open University.
   - id: jerry-xu-enterprise-ai-endorsement
     subject: Open Future Forum enterprise AI community
     source_type: first-person speaker endorsement quoted in published coverage
     attribution: Jerry Xu
     publisher: Programming Insider
+    author: Marc Berman
+    published: 2026-09-17
     excerpt: technical leaders, founders, investors and senior executives move beyond AI hype
     presentation: featured
     url: https://programminginsider.com/top-silicon-valley-executive-community-for-ai-and-private-equity-leaders-why-open-future-forum-stands-out/
@@ -71,9 +76,14 @@ entries:
     source_type: executive endorsement quoted in published coverage
     attribution: Adam Fauvre
     publisher: Programming Insider
-    excerpt: a trusted executive institution that combines influential relationships, candid peer exchange and evidence-based research
+    author: Marc Berman
+    published: 2026-09-17
+    excerpt: a trusted executive institution that combines influential relationships, candid peer exchange, proprietary market intelligence and evidence-based research
     presentation: featured
     url: https://programminginsider.com/top-silicon-valley-executive-community-for-ai-and-private-equity-leaders-why-open-future-forum-stands-out/
+    affiliation: RSM US LLP; ACG Silicon Valley
+    role: Board President, ACG Silicon Valley
+    profile_url: https://www.linkedin.com/posts/acgsiliconvalley_so-excited-to-welcome-adam-fauvre-as-the-activity-7453105158521245699-g2Ak
     context_note: Personal assessment quoted by Programming Insider; not presented as an endorsement by RSM US LLP or ACG Silicon Valley.
   - id: josiah-clymer-participant-comment
     subject: Open Future Forum events
@@ -94,6 +104,10 @@ entries:
       A big thank you to Murray Newlands for building a high-quality community of CFOs and enterprise operators...
     presentation: featured
     url: https://www.linkedin.com/posts/christina-bui-0922184_cfo-ai-financeleadership-activity-7437877146456567809-5-jV
+    affiliation: Robert Half and Protiviti; ACG Global
+    role: Vice President of Managed Business Solutions; member, 2026–2027 ACG Global Board of Directors
+    profile_url: https://www.acg.org/news-trends/news/acg-announces-its-2026-2027-board-directors
+    context_note: Personal partner or co-host account; not presented as an endorsement by ACG, Robert Half or Protiviti.
   - id: louis-lehot-cfo-community
     subject: Open Future Forum CFO community
     source_type: partner or co-host account

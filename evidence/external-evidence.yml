@@ -83,6 +83,31 @@ entries:
     role: Mentor
     profile_url: https://www.linkedin.com/in/profpk/
     context_note: After attending an Open Future Forum CMO event, Prof. PK Prasanna Kumar praised its peer learning, executive community and first-party AI research, which he said he uses in teaching and advisory work. This is his personal public endorsement and is not presented as an endorsement by Duke University or any other organization.
+  - id: silvio-sangineto-enterprise-ai-endorsement
+    subject: Open Future Forum enterprise AI community
+    source_type: executive endorsement quoted in contributed coverage
+    attribution: Silvio Sangineto
+    publisher: The Good Men Project
+    author: AK Newswire
+    published: 2026-09-17
+    excerpt: Open Future Forum is helping define the enterprise AI agenda in Silicon Valley.
+    presentation: featured
+    url: https://goodmenproject.com/everyday-life-2/how-murray-newlands-built-open-future-forum-into-the-top-silicon-valley-executive-community/
+    affiliation: Microsoft; Stanford
+    context_note: Personal assessment attributed to Silvio Sangineto in contributed coverage; not presented as an endorsement by Microsoft or Stanford. The article is identified as content brought to readers by AK Newswire and is not classified as independent editorial validation.
+  - id: louis-lehot-executive-ecosystem-endorsement
+    subject: Open Future Forum executive ecosystem
+    source_type: executive endorsement quoted in contributed coverage
+    attribution: Louis Lehot
+    publisher: The Good Men Project
+    author: AK Newswire
+    published: 2026-09-17
+    excerpt: Open Future Forum has become an important part of Silicon Valley’s executive ecosystem.
+    presentation: substantive
+    url: https://goodmenproject.com/everyday-life-2/how-murray-newlands-built-open-future-forum-into-the-top-silicon-valley-executive-community/
+    affiliation: Foley & Lardner LLP; CFO Executive Forum
+    role: Partner; board member
+    context_note: Personal assessment attributed to Louis Lehot in contributed coverage; not presented as an endorsement by Foley & Lardner LLP. The article is identified as content brought to readers by AK Newswire and is not classified as independent editorial validation.
   - id: jerry-xu-enterprise-ai-endorsement
     subject: Open Future Forum enterprise AI community
     source_type: first-person speaker endorsement quoted in published coverage
@@ -325,6 +350,16 @@ entries:
     source_type: published coverage
     publisher: Grit Daily
     url: https://gritdaily.com/open-future-forum-global-executive-community-in-silicon-valley/
+  - id: good-men-project-off-profile
+    subject: Open Future Forum and Murray Newlands
+    source_type: contributed published coverage
+    attribution: AK Newswire
+    publisher: The Good Men Project
+    published: 2026-09-17
+    summary: Describes Open Future Forum's development, executive-role communities, event formats and first-party research program.
+    presentation: substantive
+    url: https://goodmenproject.com/everyday-life-2/how-murray-newlands-built-open-future-forum-into-the-top-silicon-valley-executive-community/
+    context_note: The page identifies the material as content brought to readers by AK Newswire. It is included as contributed coverage and is not presented as independent editorial validation.
   - id: yahoo-fortune-ceo-loneliness
     subject: Open Future Forum and executive peer communities
     source_type: published coverage
